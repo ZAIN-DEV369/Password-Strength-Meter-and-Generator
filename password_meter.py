@@ -125,6 +125,6 @@ def main():
             st.success("### Generated Password:")
             st.code(password)
             st.write("Copy this password and store it securely!")
-
+    st.write("--Made by ZAIN-UL-ABIDEEN--")
 if __name__ == "__main__":
     main()
